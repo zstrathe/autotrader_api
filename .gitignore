@@ -1,0 +1,4 @@
+*.ipynb
+*.backup*
+*.json
+/venv
